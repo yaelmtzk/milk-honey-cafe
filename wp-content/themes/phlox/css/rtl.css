@@ -130,7 +130,7 @@ blockquote > i + p {
     height: 30px;
     position: relative;
     margin-top: -50%;
-    background: url(/wp-content/themes/phlox/css/images/icons/menu-toggle.png) 1px 1px no-repeat;
+    background: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/themes/phlox/css/images/icons/menu-toggle.png) 1px 1px no-repeat;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px; }
@@ -417,7 +417,7 @@ ul.tabs li {
       margin-left: 3px; }
 
 .entry-meta {
-  background: url(/wp-content/themes/phlox/css/images/pattern/meta-hr.png) left 1px repeat-x;
+  background: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/themes/phlox/css/images/pattern/meta-hr.png) left 1px repeat-x;
   position: relative; }
   .entry-meta .cell-date, .entry-meta > a {
     margin-left: 3px;

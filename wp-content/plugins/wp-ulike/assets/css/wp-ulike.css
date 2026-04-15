@@ -46,7 +46,7 @@
       padding: 0 10px;
       min-width: 50px; }
   .wpulike .wp_ulike_is_loading button.wp_ulike_btn {
-    background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
+    background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: auto; }
@@ -105,7 +105,7 @@
 .wpulike-default .wp_ulike_put_image:after {
   content: '';
   display: block;
-  background: url(/wp-content/plugins/wp-ulike/assets/img/svg/like.svg) no-repeat;
+  background: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/like.svg) no-repeat;
   background-size: contain;
   width: 16px;
   height: 16px;
@@ -159,7 +159,7 @@
 #buddypress #activity-stream .activity-meta .wpulike-default .wp_ulike_is_loading button.wp_ulike_btn,
 #buddypress #activity-stream .activity-comments .wpulike-default .wp_ulike_is_loading button.wp_ulike_btn,
 #buddypress #activity-stream .activity-inner .wpulike-default .wp_ulike_is_loading button.wp_ulike_btn {
-  background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
+  background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
   background-repeat: no-repeat;
   background-position: center center; }
 
@@ -193,7 +193,7 @@
   .wpulike-heart .wp_ulike_put_image:after {
     content: '';
     display: block;
-    background: url(/wp-content/plugins/wp-ulike/assets/img/svg/love.svg) no-repeat;
+    background: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/love.svg) no-repeat;
     background-position: center center;
     background-size: contain;
     width: 20px;
@@ -244,7 +244,7 @@
 #buddypress #activity-stream .activity-meta .wpulike-heart .wp_ulike_is_loading button.wp_ulike_btn,
 #buddypress #activity-stream .activity-comments .wpulike-heart .wp_ulike_is_loading button.wp_ulike_btn,
 #buddypress #activity-stream .activity-inner .wpulike-heart .wp_ulike_is_loading button.wp_ulike_btn {
-  background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
+  background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/loader.svg);
   background-repeat: no-repeat;
   background-position: center center; }
 
@@ -278,7 +278,7 @@
 .wpulike-robeen .wp_ulike_put_image:after {
   content: '';
   display: block;
-  background: url(/wp-content/plugins/wp-ulike/assets/img/icons/twitter-heart.png) no-repeat;
+  background: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/icons/twitter-heart.png) no-repeat;
   background-position: 0 0;
   transition: background-position 1s steps(28);
   transition-duration: 0s;
@@ -539,7 +539,7 @@
 .wp_ulike_style_love .wp_counter_span {
   float: right;
   display: inline-block;
-  background: #f1f1f1 url(/wp-content/plugins/wp-ulike/assets/img/icons/heart.png) 5px center no-repeat;
+  background: #f1f1f1 url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/icons/heart.png) 5px center no-repeat;
   color: #333;
   font-size: 9px;
   line-height: 17px;
@@ -592,7 +592,7 @@
       display: block;
       background-position: center center;
       background-repeat: no-repeat;
-      background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/info.svg);
+      background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/info.svg);
       background-size: 25px;
       position: absolute;
       left: 0;
@@ -603,15 +603,15 @@
     .wpulike-notification .wpulike-message.wpulike-success {
       background-color: #20a779; }
       .wpulike-notification .wpulike-message.wpulike-success:before {
-        background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/success.svg); }
+        background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/success.svg); }
     .wpulike-notification .wpulike-message.wpulike-error {
       background-color: #ec4d2c; }
       .wpulike-notification .wpulike-message.wpulike-error:before {
-        background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/error.svg); }
+        background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/error.svg); }
     .wpulike-notification .wpulike-message.wpulike-warning {
       background-color: #f0a82f; }
       .wpulike-notification .wpulike-message.wpulike-warning:before {
-        background-image: url(/wp-content/plugins/wp-ulike/assets/img/svg/warning.svg); }
+        background-image: url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/svg/warning.svg); }
 
 @keyframes wpUlikeNotifitcationsAnimation {
   from {
@@ -864,7 +864,7 @@
 
 .rtl .wp_ulike_style_love .wp_counter_span {
   float: left;
-  background: #F1F1F1 url(/wp-content/plugins/wp-ulike/assets/img/icons/heart.png) no-repeat scroll 85% center;
+  background: #F1F1F1 url(https://yaelmtzk.github.io/milk-honey-cafe/wp-content/plugins/wp-ulike/assets/img/icons/heart.png) no-repeat scroll 85% center;
   margin: 2px 2px 0 0;
   padding: 0 23px 0 5px; }
 
