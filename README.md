@@ -7,6 +7,7 @@ This is the source code and content for the Milk & Honey Cafe website, built wit
 
 ## Project Structure
 - `index.html` — Main landing page
+- `about-us/` — About Us page
 - `author/` — Author-specific content
 - `contact-us/` — Contact page
 - `menu/` — Menu page
@@ -27,7 +28,7 @@ This is the source code and content for the Milk & Honey Cafe website, built wit
 5. **Activate the Phlox theme** and required plugins from the WordPress admin dashboard.
 
 ## Customization
-- Edit content in the `author/`, `contact-us/`, and `menu/` folders as needed.
+- Edit content in the `about-us/`, `author/`, `contact-us/`, and `menu/` folders as needed.
 - Manage plugins and themes in `wp-content/`.
 - Add images and media to `wp-content/uploads/`.
 
