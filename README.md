@@ -1,6 +1,5 @@
 # Milk & Honey Cafe
 
-
 Welcome to the Milk & Honey Cafe WordPress Site!
 
 ## Overview
